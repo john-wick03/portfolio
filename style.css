@@ -137,7 +137,7 @@ ul{
 }
 .nav_toggle{
     /* right: 2rem; */
-    margin-right: -15px;
+    margin-right: -10px;
 }
 .nav_toggle,.nav_close{
     font-size: 1.5rem;
